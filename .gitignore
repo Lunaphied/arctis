@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+/*.egg-info
+/.eggs
+/dist
+
+# coverage
+/.coverage
+/htmlcov
+
+# tests
+/tests/spec_*/
